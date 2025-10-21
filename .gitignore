@@ -1,6 +1,6 @@
-﻿.venv/
+﻿# venv / 캐시 / 동영상 제외
+.venv/
 __pycache__/
 *.mp4
 *.avi
 *.mov
-.DS_Store
